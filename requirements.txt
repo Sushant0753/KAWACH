@@ -1,7 +1,7 @@
 gunicorn
 numpy
 pandas
-sklearn
+scikit-learn
 joblib
 urllib.parse
 pickle
