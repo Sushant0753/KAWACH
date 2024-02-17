@@ -1,0 +1,10 @@
+gunicorn
+numpy
+pandas
+sklearn
+joblib
+urllib.parse
+pickle
+googlesearch
+flask
+re
