@@ -5,4 +5,5 @@ numpy==1.26.4
 pandas==2.2.0
 scikit_learn==1.4.0
 tld==0.13
+werkzeug.urls==2.2.2
 gunicorn
